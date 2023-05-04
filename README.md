@@ -15,11 +15,11 @@
 
 <br>
 
-![Notes App]()
+![Notes App](images/notes-app.png)
 
 <br>
 
-[Deployment]()
+[Deployment](https://jesterb0206.github.io/Notes-App/)
 
 <br>
 
